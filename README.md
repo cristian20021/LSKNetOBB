@@ -14,7 +14,7 @@ oriented object detection benchmark.
 | **LSKNet-S (this repo)** | **64.95%** |
 
 Trained for 12 epochs, identical AOPG head/schedule/hyperparameters to the
-original paper — only the backbone and matching FPN input channels were changed.
+original paper, only the backbone and matching FPN input channels were changed.
 
 ## What's in this repo
 
